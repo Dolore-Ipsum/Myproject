@@ -24,8 +24,8 @@ body {
     position: fixed;
     z-index: 20;
     width: 980px;
-    margin: 0;
-    padding: 10px 140px;
+    margin: 0 auto;
+
     padding-bottom: 0;
     top: 0;
     left: 0;
@@ -44,7 +44,8 @@ body {
 
 .logo {
       float: left;
-      height: 90px;
+      margin-top: 10px;
+      height: 80px;
       width: 182px;
 }
 
