@@ -269,12 +269,6 @@ background-repeat: no-repeat;
   margin-right:40px;
 }
 
-.features-item::after{
-  content: "";
-  display: table;
-  clear:both;
-}
-
 .features-icon {
       position: absolute;
       left: 80px;
